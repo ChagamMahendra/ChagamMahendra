@@ -27,7 +27,7 @@
 - 💚 I love solving and explaining problems with Visualization
 - 🥇 <a href="https://www.credly.com/badges/5f6c7bf4-905f-494a-893e-2e403c84e801/public_url">Tableau Desktop Specialist</a> , <a href="https://www.hackerrank.com/certificates/0c9a09520147">SQL HackerRank</a> , <a href="https://www.hackerrank.com/certificates/b862c3e23ea5">R HackerRank</a>
 - 🏏 Cricket or🏸 Badmintion - I am in at any time or day
-
+- 📸 Love Clicking Pictures
 
 
 ### Projects
