@@ -6,6 +6,10 @@
 <a href="https://public.tableau.com/app/profile/mahendra.chagam">
   <img align="left" alt="Mahendra Chagam's Tableau" width="25px" src="https://github.com/ChagamMahendra/Sources/blob/main/tableau.png" />
 </a>
+</a>
+<a href="https://www.hackerrank.com/mahendra14044">
+  <img align="left" alt="Mahendra Chagam's Hacker Rank" width="30px" src="https://github.com/ChagamMahendra/Sources/blob/main/download.png" />
+</a>
 <a href="https://discord.gg/SW2xJyQm">
   <img align="left" alt="Mahendra Chagam's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -19,8 +23,12 @@
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Master's in Business Analystics at University of California, Davis - Class of 2022
 - 🎓 Bachlor's in Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
 - ❤️ Intrested in solving business problems using Machines Learning and Anlystics
-- ❤️ I love coding in any language. Currently good at SQL, Python, R, C++
-- ❤️ I love solving and explaining problems with Visualization
+- ❣️ I love coding in any language. Currently good at SQL, Python, R, C++
+- 💚 I love solving and explaining problems with Visualization
+- 🥇 <a href="https://www.credly.com/badges/5f6c7bf4-905f-494a-893e-2e403c84e801/public_url">Tableau Desktop Specialist</a> , <a href="https://www.hackerrank.com/certificates/0c9a09520147">SQL HackerRank</a> , <a href="https://www.hackerrank.com/certificates/b862c3e23ea5">R HackerRank</a>
+- 🏏 Cricket or🏸 Badmintion - I am in at any time or day
+
+
 
 ### Projects
 <ul>
