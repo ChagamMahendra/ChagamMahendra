@@ -41,7 +41,14 @@
   </li>
 </ul>
 
-
+### Learning
+<ul>
+  <li>Machine Learning in R</li>
+  <li>Machine Learning in Python</li>
+  <li>Statistics</li>
+  <li>SQL</li>
+</ul>
+      
 
 
 
