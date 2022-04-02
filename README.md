@@ -37,13 +37,23 @@
     <ul>
       <li>Major
       <ul><li>
-      <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/Smart-Rental-Listing-searh-using-Zillow/Zillow%20Rental%20Listing%20Search.ipynb"> 1. Smart Rental Search using Zillow.com</a>
+      1. <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/Smart-Rental-Listing-searh-using-Zillow/Zillow%20Rental%20Listing%20Search.ipynb">Smart Rental Search using Zillow.com</a>
       </li></ul>
       </li>
       <li>Mini
       <ul><li>
-      <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/First-Spotlight-Deal-on-Ebay/First%20Spotlight%20Deal%20on%20Ebay.ipynb"> 1. First Spotlight Deal on Ebay</a>
+      1. <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/First-Spotlight-Deal-on-Ebay/First%20Spotlight%20Deal%20on%20Ebay.ipynb">First Spotlight Deal on Ebay</a>
       </li></ul>
+      </li>
+    </ul>
+  </li>
+  <li> Data Visualization
+    <ul>
+      <li>
+        1. <a href="https://public.tableau.com/app/profile/mahendra.chagam/viz/CrimeinSF_16411077538620/Dashboard1">San Francisco Crime Tracker</a>
+      </li>
+      <li>
+        2. <a href="https://public.tableau.com/app/profile/mahendra.chagam/viz/CricketAnalysis_16489402503370/CricketAnalysis">Cricket Team and Player Analysis in Multiple Formats</a>
       </li>
     </ul>
   </li>
