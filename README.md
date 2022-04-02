@@ -15,7 +15,7 @@
 <br>
 
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Data Scientist
+- 🖥 Data Scientist at <a href="https://health.ucdavis.edu/welcome/index.html">UC Davis Health</a>, EX - <a href=https://www.mu-sigma.com/>MuSigman</a>
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Master's in Business Analystics at University of California, Davis - Class of 2022
 - 🎓 Bachlor's in Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
 - ❤️ I love coding in any language. Currently good at SQL, Python, R, C++
