@@ -20,6 +20,7 @@
 
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Data Scientist at <a href="https://health.ucdavis.edu/welcome/index.html">UC Davis Health</a>, EX - <a href=https://www.mu-sigma.com/>MuSigman</a>
+- 👨‍💼 In the last 4+ years of employment, I've held multiple roles - Lead Decision Scientist, Senior Data Anlayst, BI Engineer 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Master's in Business Analystics at University of California, Davis - Class of 2022
 - 🎓 Bachlor's in Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
 - ❤️ Intrested in solving business problems using Machines Learning and Anlystics
