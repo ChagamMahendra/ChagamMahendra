@@ -33,21 +33,27 @@
 
 ### Projects
 <ul>
-  <li>Data Science and Machine Learning</li>
+  <li>Data Science and Machine Learning
+    <ul>
+      <li>
+      <a href="https://github.com/ChagamMahendra/Data-Science/blob/PCA/BrandMaps.pdf">Brand Maps of Automobiles using PCA</a>
+      </li>
+    </ul> 
+  </li>
   <br>
   <li>Web Scrapping
     <ul>
       <li>Major
       <ul><li>
-      1. <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/Smart-Rental-Listing-searh-using-Zillow/Zillow%20Rental%20Listing%20Search.ipynb">Smart Rental Search using Zillow.com</a>
+      <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/Smart-Rental-Listing-searh-using-Zillow/Zillow%20Rental%20Listing%20Search.ipynb">Smart Rental Search using Zillow.com</a>
       </li>
       <li>
-      2. <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/Top-Donut-Shops-in-SF-using-Yelp/Top%20Donut%20Shops%20of%20San%20Francisco.ipynb">Top Donut Shops in San Francisco using Yelp.com</a>
+      <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/Top-Donut-Shops-in-SF-using-Yelp/Top%20Donut%20Shops%20of%20San%20Francisco.ipynb">Top Donut Shops in San Francisco using Yelp.com</a>
       </li></ul>
       </li>
       <li>Mini
       <ul><li>
-      1. <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/First-Spotlight-Deal-on-Ebay/First%20Spotlight%20Deal%20on%20Ebay.ipynb">First Spotlight Deal on Ebay</a>
+      <a href="https://github.com/ChagamMahendra/Web-Scrapping/blob/First-Spotlight-Deal-on-Ebay/First%20Spotlight%20Deal%20on%20Ebay.ipynb">First Spotlight Deal on Ebay</a>
       </li></ul>
       </li>
     </ul>
@@ -56,10 +62,10 @@
   <li> Data Visualization
     <ul>
       <li>
-        1. <a href="https://public.tableau.com/app/profile/mahendra.chagam/viz/CrimeinSF_16411077538620/Dashboard1">San Francisco Crime Tracker</a>
+        <a href="https://public.tableau.com/app/profile/mahendra.chagam/viz/CrimeinSF_16411077538620/Dashboard1">San Francisco Crime Tracker</a>
       </li>
       <li>
-        2. <a href="https://public.tableau.com/app/profile/mahendra.chagam/viz/CricketAnalysis_16489402503370/CricketAnalysis">Cricket Team and Player Analysis in Multiple Formats</a>
+        <a href="https://public.tableau.com/app/profile/mahendra.chagam/viz/CricketAnalysis_16489402503370/CricketAnalysis">Cricket Team and Player Analysis in Multiple Formats</a>
       </li>
     </ul>
   </li>
