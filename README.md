@@ -36,7 +36,7 @@
   <li>Data Science and Machine Learning
     <ul>
       <li>
-      <a href="https://github.com/ChagamMahendra/Data-Science/blob/PCA/BrandMaps.pdf">Brand Maps of Automobiles using PCA</a>
+      <a href="https://github.com/ChagamMahendra/Data-Science/blob/PCA/BrandMaps.pdf">Brand Map for Automobiles using PCA</a>
       </li>
     </ul> 
   </li>
