@@ -33,7 +33,7 @@
 
 ### Projects
 <ul>
-  <li>Data Science and Machine Learning
+  <li>Data Science and Machine Learning 
     <ul>
       <li>
       <a href="https://github.com/ChagamMahendra/Data-Science/blob/PCA/BrandMaps.pdf">Brand Map for Automobiles using PCA</a>
@@ -41,7 +41,7 @@
     </ul> 
   </li>
   <br>
-  <li>Web Scrapping
+  <li>Web Scrapping 
     <ul>
       <li>Major
       <ul><li>
@@ -59,7 +59,7 @@
     </ul>
   </li>
   <br>
-  <li> Data Visualization
+  <li> Data Visualization 
     <ul>
       <li>
         <a href="https://public.tableau.com/app/profile/mahendra.chagam/viz/CrimeinSF_16411077538620/Dashboard1">San Francisco Crime Tracker</a>
