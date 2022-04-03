@@ -34,6 +34,7 @@
 ### Projects
 <ul>
   <li>Data Science and Machine Learning</li>
+  <br>
   <li>Web Scrapping
     <ul>
       <li>Major
@@ -51,6 +52,7 @@
       </li>
     </ul>
   </li>
+  <br>
   <li> Data Visualization
     <ul>
       <li>
