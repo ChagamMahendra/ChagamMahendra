@@ -35,10 +35,17 @@
 <ul>
   <li>Data Science and Machine Learning 
     <ul>
+    <li> Mini
+    <ul>
+      <li>
+        <a href="https://github.com/ChagamMahendra/Data-Science/blob/main/Diabetes%20Prediction.ipynb">Diabetes Predictions Using Logistic Regression, Random Forest and XGBoost</a>
+      </li>
       <li>
       <a href="https://github.com/ChagamMahendra/Data-Science/blob/PCA/BrandMaps.pdf">Brand Map for Automobiles using PCA</a>
       </li>
     </ul> 
+      </li>
+    </ul>
   </li>
   <br>
   <li>Web Scrapping 
