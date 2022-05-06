@@ -78,13 +78,7 @@
   </li>
 </ul>
 
-### Learning
-<ul>
-  <li>Machine Learning in R</li>
-  <li>Machine Learning in Python</li>
-  <li>Statistics</li>
-  <li>SQL</li>
-</ul>
+### Only a few of my projects have been published here. I'm in the process of cleaning up codes so that I can publish them as soon as possible.
 
 
 
