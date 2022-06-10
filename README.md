@@ -1,4 +1,4 @@
-### Hi there !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
 ### I'm Mahendra Chagam
 <a href="https://www.linkedin.com/in/mahendra-chagam/">
   <img align="left" alt="Mahendra Chagam's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
