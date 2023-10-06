@@ -1,7 +1,7 @@
 ### Hi there !!! 
 ### I'm Mahendra Chagam
 <a href="https://www.linkedin.com/in/mahendra-chagam/">
-  <img align="left" alt="Mahendra Chagam's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://public.tableau.com/app/profile/mahendra.chagam">
   <img align="left" alt="Mahendra Chagam's Tableau" width="25px" src="https://github.com/ChagamMahendra/Sources/blob/main/tableau.png" />
@@ -11,7 +11,7 @@
   <img align="left" alt="Mahendra Chagam's Hacker Rank" width="30px" src="https://github.com/ChagamMahendra/Sources/blob/main/download.png" />
 </a>
 <a href="https://discord.gg/SW2xJyQm">
-  <img align="left" alt="Mahendra Chagam's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/mahendra_chagam/">
   <img align="left" alt="Mahendra Chagam's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
